@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MyBot:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyBot_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MyBot/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MyBot" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
