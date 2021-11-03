@@ -8,7 +8,7 @@ import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 
 public class MySuperBot extends TelegramLongPollingBot {
     private static final String TOKEN ="1363999060:AAETuTK_i_xonIfZnlviFh-dTAMuGYcI4Ak";
-    private static final String UERNAME = "klopinabot";
+    private static final String UERNAME = "@klopinabot";
 
     public String getBotUsername() {
         return null;
