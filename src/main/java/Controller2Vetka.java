@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class Controller2Vetka {
+public class Controller2Vetka {
 }
